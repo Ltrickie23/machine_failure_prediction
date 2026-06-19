@@ -2,7 +2,7 @@
 Machine learning project focused on predictive maintenance using operational data from an industrial enviroment. The goal is to predict wether a machine will fail based on sensor readings, suppporting maintenance teams in prioritizing interventions before failures occurs.
 
 ## Dataset  
-AI4I 2020 Predictive Maintenance Dataset -- UCI Machine Learning Repository 10,000 observations with 6 features.  
+[AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset) -- UCI Machine Learning Repository 10,000 observations with 6 features.  
 
 Features used:
 - Air temperature [K]
