@@ -3,7 +3,7 @@ Machine learning project focused on predictive maintenance using operational dat
 
 ## Dataset  
 [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
---UCI Machine Learning Repository 10,000 observations with 6 features.  
+-- UCI Machine Learning Repository 10,000 observations with 6 features.  
 
 Features used:
 - Air temperature [K]
