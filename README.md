@@ -38,7 +38,7 @@ Engineered features:
            1       0.95      0.82        68
 
 ## Results
-Random Forest was selected as the final model. The decision threshold was adjusted from 0.50 to 0.38 using the Precision-Recall curve, increasing recall from 0.76 to 0.82 while maintaining precision at 0.95
+Random Forest was selected as the final model. The decision threshold was adjusted from 0.50 to 0.38 using the Precision-Recall curve, increasing recall from 0.76 to 0.82 while maintaining precision at 0.95.
 Out of 68 real failures in the test set, the model detected 56. Of the 59 alerts generated only 3 were false alarms. This balance was chosen deliberately to avoid alarm fatigue in the maintenance team because a low precision system risks being ignored over time, reducing the value of the system.
 
 ## Author
