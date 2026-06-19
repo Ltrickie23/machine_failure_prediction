@@ -1,4 +1,4 @@
-# machine_failure_prediction
+# Machine_Failure_prediction
 Machine learning project focused on predictive maintenance using operational data from an industrial enviroment. The goal is to predict wether a machine will fail based on sensor readings, suppporting maintenance teams in prioritizing interventions before failures occurs.
 
 ## Dataset  
@@ -18,7 +18,6 @@ Engineered features:
 - Overstrain (Torque × Tool wear)
 
 ## Models trained
-
 === Logistic Regression ===
 
               precision    recall    support
