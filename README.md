@@ -43,7 +43,7 @@ Random Forest was selected as the final model. The decision threshold was adjust
 Out of 68 real failures in the test set, the model detected 56. Of the 59 alerts generated only 3 were false alarms. This balance was chosen deliberately to avoid alarm fatigue in the maintenance team because a low precision system risks being ignored over time, reducing the value of the system.
 
 ## Author
-Jorge - Mechatronics Engineer with experience in industrial maintenance.
+Jorge Nava - Mechatronics Engineer | Data Science & Machine Learning.
 [LinkedIn](https://www.linkedin.com/in/jorgenavao)
 
 
